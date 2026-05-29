@@ -1,1 +1,15 @@
 Folder ini berisi tugas pekan 14, yang telah diberikan pada pekan 12. 
+
+Deskripsi Tugas:
+Challenge: Data Mahasiswa
+Buat program dengan ketentuan:
+1. Class: Mahasiswa
+2. Atribut:
+nama (String)
+nim (String)
+jurusan (String)
+3. Constructor:
+Mengisi semua atribut
+4. Method:
+tampilData()
+5. Buat minimal 2 object
